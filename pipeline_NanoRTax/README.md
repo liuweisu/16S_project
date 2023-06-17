@@ -1,5 +1,7 @@
 # NanoRTax
 
+The changed NanoRTax code is the NanoRTax-master.zip file
+
 Input file: 
 - FASTQ file
 
