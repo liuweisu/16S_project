@@ -34,7 +34,7 @@ The workflow used for this project is visualised in the image below:
 - The changed code for NanoCLUST and NanoRTax can be found in the links in respective order: 
 <br> - https://github.com/liuweisu/NanoCLUST.git 
 <br> - https://github.com/liuweisu/NanoRTax.git 
-<br> Later the changed code can also be foun in this repository 16S_project/pipeline_NanoCLUST and 16S_project/NanoRTax, in respective order. 
+<br> Later, the changed code can also be found in this repository 16S_project/pipeline_NanoCLUST/NanoCLUST-master.zip and 16S_project/NanoRTax, in respective order. 
 - A copy of the MABA16S repository can be found in the original repository of MUMC-MEDMIC: 
 <br> -https://github.com/MUMC-MEDMIC/MABA16S.git
 <br> A copy of the MABA16S repository can later also be found in this repository; 16S_project/pipeline_MABA16S. 
